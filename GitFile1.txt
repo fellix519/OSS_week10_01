@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 contents5
+=======
+contents8
+>>>>>>> hotfix
+contents9
