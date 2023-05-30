@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 contents5
 =======
 contents8
 >>>>>>> hotfix
 contents9
+=======
+contents7
+>>>>>>> feature2
+contents10
